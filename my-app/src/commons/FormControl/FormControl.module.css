@@ -1,0 +1,11 @@
+
+.formControl{
+    display: inline-block;
+}
+.formControl.error textarea,
+.formControl.error input{
+border: 2px solid red;
+}
+.errorMessage{
+    color: red;
+}

@@ -1,0 +1,12 @@
+
+.auth-block{
+   display: flex;
+   align-items: center ;
+}
+.authBlock span{
+   margin-right: 5px;
+}
+.authBlockButton{
+   border:1px solid #fff;
+   
+}

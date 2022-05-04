@@ -1,0 +1,19 @@
+.contentResume {}
+
+.contentResume img {
+   max-width: 200px;
+}
+
+.content_resume_info {
+   padding: 0px 0px 0px 10px;
+}
+
+.userName {
+   font-size: 20px;
+   text-transform: capitalize;
+}
+
+.contentResume_inf {
+   font-size: 18px;
+   color: rgb(104, 98, 98);
+}
